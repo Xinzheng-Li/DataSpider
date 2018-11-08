@@ -1,0 +1,9 @@
+[20181108 21:12:42][64ca063598d84b91947657760123c85c][Info] Build custom component...
+[20181108 21:12:43][64ca063598d84b91947657760123c85c][Info] Build internal component...
+[20181108 21:12:45][64ca063598d84b91947657760123c85c][Info] Add start urls to scheduler, count 1.
+[20181108 21:12:45][64ca063598d84b91947657760123c85c][Trace] Left 1 Success 0 Error 0 Total 1 Dowload 0 Extract 0 Pipeline 0
+[20181108 21:13:04][64ca063598d84b91947657760123c85c][Info] Crawl: http://www.atzuche.com/car/searchListMap/2?cityCode=330100&sceneCode=U002&filterCondition%5Blon%5D=120.219294&filterCondition%5Blat%5D=30.259258&filterCondition%5Bseq%5D=4&pageNum=1&pageSize=0 success, results: 1912, effectedRow: 956.
+[20181108 21:13:04][64ca063598d84b91947657760123c85c][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 1290 Extract 545 Pipeline 7455
+[20181108 21:13:08][64ca063598d84b91947657760123c85c][Warn] Exit...
+[20181108 21:13:08][64ca063598d84b91947657760123c85c][Trace] Left 0 Success 1 Error 0 Total 1 Dowload 1290 Extract 545 Pipeline 7455
+[20181108 21:13:08][64ca063598d84b91947657760123c85c][Info] Crawl terminated, cost: 22.3657628 seconds.

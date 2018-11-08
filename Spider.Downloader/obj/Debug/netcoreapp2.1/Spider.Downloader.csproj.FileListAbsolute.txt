@@ -1,0 +1,9 @@
+F:\Project\DataSpider\Spider.Downloader\bin\Debug\netcoreapp2.1\Spider.Downloader.deps.json
+F:\Project\DataSpider\Spider.Downloader\bin\Debug\netcoreapp2.1\Spider.Downloader.dll
+F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.csprojAssemblyReference.cache
+F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.csproj.CoreCompileInputs.cache
+F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.AssemblyInfoInputs.cache
+F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.AssemblyInfo.cs
+F:\Project\DataSpider\Spider.Downloader\bin\Debug\netcoreapp2.1\Spider.Downloader.pdb
+F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.dll
+F:\Project\DataSpider\Spider.Downloader\obj\Debug\netcoreapp2.1\Spider.Downloader.pdb

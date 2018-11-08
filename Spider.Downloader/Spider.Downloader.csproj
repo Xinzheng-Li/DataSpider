@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotnetSpider.Core" Version="2.5.1" />
+    <PackageReference Include="DotnetSpider.Extension" Version="2.5.0" />
+  </ItemGroup>
+
+</Project>

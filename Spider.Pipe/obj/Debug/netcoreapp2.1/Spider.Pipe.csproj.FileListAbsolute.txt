@@ -1,0 +1,12 @@
+F:\Project\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Pipe.deps.json
+F:\Project\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Pipe.dll
+F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.csprojAssemblyReference.cache
+F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.csproj.CoreCompileInputs.cache
+F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.AssemblyInfoInputs.cache
+F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.AssemblyInfo.cs
+F:\Project\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Pipe.pdb
+F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.dll
+F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.pdb
+F:\Project\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Entity.dll
+F:\Project\DataSpider\Spider.Pipe\bin\Debug\netcoreapp2.1\Spider.Entity.pdb
+F:\Project\DataSpider\Spider.Pipe\obj\Debug\netcoreapp2.1\Spider.Pipe.csproj.CopyComplete

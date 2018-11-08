@@ -1,0 +1,9 @@
+F:\Project\DataSpider\Spider.Command\bin\Debug\netcoreapp2.1\Spider.Command.deps.json
+F:\Project\DataSpider\Spider.Command\bin\Debug\netcoreapp2.1\Spider.Command.dll
+F:\Project\DataSpider\Spider.Command\bin\Debug\netcoreapp2.1\Spider.Command.pdb
+F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.csprojAssemblyReference.cache
+F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.csproj.CoreCompileInputs.cache
+F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.AssemblyInfoInputs.cache
+F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.AssemblyInfo.cs
+F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.dll
+F:\Project\DataSpider\Spider.Command\obj\Debug\netcoreapp2.1\Spider.Command.pdb
